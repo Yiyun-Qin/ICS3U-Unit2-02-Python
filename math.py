@@ -4,10 +4,11 @@
 # Created on March 2022
 # This is the math program, with proper style
 
+import math
+
 
 def main():
     # This function calculates the area and perimetre of a rectangle
-    import math
 
     # input
     length = int(input("Enter the length of the rectangle (mm): "))
