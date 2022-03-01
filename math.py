@@ -6,7 +6,7 @@
 
 
 def main():
-    # This function calculates tha area and perimetre of a rectangle
+    # This function calculates the area and perimetre of a rectangle
     import math
 
     # input
@@ -20,8 +20,8 @@ def main():
     # output
     print("")
 
-    print("Area is {} cm².".format(area))
-    print("Perimetre is {} cm.".format(perimetre))
+    print("Area is {} mm².".format(area))
+    print("Perimetre is {} mm.".format(perimetre))
 
     print("\nDone.")
 
